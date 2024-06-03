@@ -1,0 +1,185 @@
+ <!-- <div class="course_sec_1">
+                <div class="course_card">
+                    <div class="cc_header">
+                        <img src="./images/user2.png" alt="Female">
+                        <h4>Yara A. <br>
+                            <p>2023</p>
+                        </h4>
+
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>I’m thrilled to share that I am now a part of the Mustashar Accelerator – مسرعة مستشار
+                            community and have obtained my certification in Foundational Consulting Skills!</p>
+                        <p>Being part of the 1st cohort has been an honor, and I am immensely grateful to Dr. Annas
+                            Abedin for his remarkable efforts in making this program a success.</p>
+                    </div>
+                </div>
+                <div class="course_card">
+                    <div class="cc_header">
+                        <img src="./images/user2.png" alt="Female">
+                        <h4>Randa B. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>I am glad to share with you that I have completed the Mustashar Accelerator – مسرعة مستشار
+                            program for core management consultancy skills and methodologies.</p>
+                        <p>Thanks to Dr. Annas Abedin for the exceptional experience.</p>
+                    </div>
+                </div>
+                <div class="course_card">
+                    <div class="cc_header">
+                        <img src="./images/male.png" alt="Female">
+                        <h4>Abdullah A. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>Congratulations to the Mustashar Accelerator Program on graduating its first cohort! As a
+                            participant in the program, I can confidently say it was an incredible experience. The
+                            sessions were informative, engaging, and provided me with invaluable consulting skills and
+                            knowledge.</p>
+                    </div>
+                </div>
+                <div class="course_card">
+                    <div class="cc_header">
+                        <img src="./images/male.png" alt="Female">
+                        <h4>Hussain A. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>Amazing Program for Future Consultants!!</p>
+                        <p>I am glad to have particpated in the Mustashar Accelerator Program. Thank you, Dr. Annas
+                            Abedin, and many thanks to all the speakers: Hesham Rowaihy, Khaled Alhinti, Ageel
+                            Alshaibani, Razan Alayed, Ahmed Alawaji, Ali Alballaa, and Philipp Marquardt, for your
+                            valuble insights.</p>
+                    </div>
+                </div>
+            </div>
+              <!-- <div class="course_sec_2">
+
+                <div class="course_card<div class="cc_header">
+                        <img src="./images/user2.png" alt="Female">
+                        <h4>Jumanah T. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>Such an inclusive and informative program! Thank you for the opportunity, Dr. Annas Abedin.
+                            Pleasure to meet you and your guests, and an honor to have been connected with many talented
+                            peers!</p>
+                    </div>">
+                    <div class="cc_header">
+                        <img src="./images/user2.png" alt="Female">
+                        <h4>Jumanah T. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>Such an inclusive and informative program! Thank you for the opportunity, Dr. Annas Abedin.
+                            Pleasure to meet you and your guests, and an honor to have been connected with many talented
+                            peers!</p>
+                    </div>
+                </div>
+                <div class="course_card">
+                    <div class="cc_header">
+                        <img src="./images/male.png" alt="Female">
+                        <h4>Hussam K. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>Great program! Dr. Annas is amazing, and the guest speakers are inspiring. Highly recommended
+                            for anyone interested in the field.</p>
+                    </div>
+                </div>
+                <div class="course_card">
+                    <div class="cc_header">
+                        <img src="./images/male.png" alt="Female">
+                        <h4>Abdulrahman K. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>Amazing program! Thank you so much Dr. Annas, mustashar team, partners, and everyone else
+                            that made this possible!</p>
+                    </div>
+                </div>
+                <div class="course_card">
+                    <div class="cc_header">
+                        <img src="./images/male.png" alt="Female">
+                        <h4>Abdulaziz A. <br>
+                            <p>2023</p>
+                        </h4>
+                    </div>
+                    <div class="cc_rating">
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </div>
+                    <div class="cc_body">
+                        <p>Congratulations to the team for completing the program, and many thanks to Dr. Annas and all
+                            valuabe experts who enriched our course for two weeks. It was an incredible experience, and
+                            I highly recommend the Mustashar Accelerator program to our colleagues.</p>
+                    </div>
+                </div>
+            </div> -->
