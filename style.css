@@ -1227,7 +1227,9 @@ hr {
     }
 }
 @media only screen and (max-width: 880px) {
-    
+    .laptop {
+        padding: 0px 20px;
+    }
     .content_about {
         flex-basis: 100%;
     }
@@ -1295,8 +1297,15 @@ hr {
         border: none;
         padding-left: 0px !important;
     }
+    .image_j {
+        width: 350px;
+        height: 350px;
+    }
 }
 @media only screen and (max-width: 480px){
+    .laptop {
+        padding: 0px 10px;
+    }
     .modal{
         top:140%;
     }
@@ -1312,6 +1321,10 @@ hr {
         width: 100%;
         height: auto;
     }
+    .image_j {
+        width: 300px;
+        height: 300px;
+    }
 
 }
 @media only screen and (max-width: 365px) {
@@ -1326,5 +1339,15 @@ hr {
         padding: 8% 10px;
         font-size: 16px;
         justify-content: center;
+    }   
+    .image_j {
+        width: 250px;
+        height: 250px;
+    }
+    .f_card {
+        padding: 10px 0px;
+    }
+    .fc_text {
+        padding: 0px 20px;
     }
 }
