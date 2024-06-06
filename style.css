@@ -869,7 +869,7 @@ hr {
 }
 
 .content {
-    padding: 0px 40px 0px 180px;
+    padding: 0px 40px 0px 50px;
     max-height: 0;
     border: 1px solid #eee;
     border-top: none;
@@ -1019,7 +1019,6 @@ hr {
     background-color: #2F42B6;
     display: flex;
 }
-
 .mb_content {
     display: flex;
     max-width: 1440px;
@@ -1029,7 +1028,7 @@ hr {
 .banner-head{
     color: #fff;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 .main_banner_head {
     background-color: #2F42B6;
@@ -1054,7 +1053,8 @@ hr {
     display: flex;
     max-width: 1440px;
     margin: 0px auto;
-    padding: 40px 0px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .footer_content p {
@@ -1225,6 +1225,28 @@ hr {
     .banner_footer button {
         width: 25%;
     }
+    .collapsible{
+        padding: 20px;
+    }
+    .collapse-end {
+        
+        justify-content: start;
+        margin-top: 5px;
+
+    }
+    .collapsible:after {
+        margin-top: -31.5px;
+    }
+    .banner_image {
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .faculty h2 {
+        margin: 70px auto;
+    }
+    .banner_image h2{
+        margin: 70px auto;
+    }
 }
 @media only screen and (max-width: 880px) {
     .laptop {
@@ -1301,13 +1323,21 @@ hr {
         width: 350px;
         height: 350px;
     }
+    .footer_content {
+        flex-direction: column;
+        text-align: center;
+    }
+    .copyright{
+        text-align: center;
+    }
+    
 }
 @media only screen and (max-width: 480px){
     .laptop {
         padding: 0px 10px;
     }
     .modal{
-        top:140%;
+        top:160%;
     }
     .banner-style {
         flex-basis: 25%;
